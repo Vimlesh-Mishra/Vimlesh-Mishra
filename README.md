@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vimlesh-Mishra
-- 👀 I’m interested in Thinking
+- 👀 I’m interested in frontend development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me - you can reach me through my email - mishravimleshr@gmail.com
